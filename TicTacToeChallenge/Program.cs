@@ -90,6 +90,9 @@ namespace TicTacToeChallenge
                     playField[2, 2] = playerCallSign;
                     turns++;
                     break;
+                default:
+                    Console.WriteLine("Wrong Input Please try again!");
+                    break;
             }
             Console.Clear();
             SetField();
