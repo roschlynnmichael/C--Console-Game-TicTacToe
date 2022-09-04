@@ -1,0 +1,16 @@
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net5.0\TicTacToeChallenge.exe
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net5.0\TicTacToeChallenge.deps.json
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net5.0\TicTacToeChallenge.runtimeconfig.json
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net5.0\TicTacToeChallenge.runtimeconfig.dev.json
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net5.0\TicTacToeChallenge.dll
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net5.0\TicTacToeChallenge.pdb
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\TicTacToeChallenge.csproj.AssemblyReference.cache
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\TicTacToeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\TicTacToeChallenge.AssemblyInfoInputs.cache
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\TicTacToeChallenge.AssemblyInfo.cs
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\TicTacToeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\TicTacToeChallenge.dll
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\refint\TicTacToeChallenge.dll
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\TicTacToeChallenge.pdb
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\TicTacToeChallenge.genruntimeconfig.cache
+C:\Users\rosch\source\repos\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net5.0\ref\TicTacToeChallenge.dll
